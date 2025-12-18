@@ -1,6 +1,0 @@
-# Ignore the App.js file per user request
-App.js
-
-# Common Node ignores (optional)
-node_modules/
-npm-debug.log
